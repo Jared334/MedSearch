@@ -1,0 +1,10 @@
+
+\.vs/
+\.idea/
+
+MedSearch/obj/
+MedSearch/\.gitignore
+
+MedSearch/stats\.json
+
+MedSearch/bin/
